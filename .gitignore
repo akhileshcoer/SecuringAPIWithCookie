@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/SecuringAPIWithCookie/bin/Debug/netcoreapp2.0
+/SecuringAPIWithCookie/obj
